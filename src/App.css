@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.title{
+  width: 500px;
+  text-align: center;
+  margin: 20px;
+  color: #000000;
+}
+
+button{
+  border-radius: 5px;
+  background-color: rgb(97, 97, 97);
+  color: azure;
+  border: none;
+  margin-left:100px
+}
+
+select{
+  margin-left:20px
+}
+
+.detail{
+  vertical-align: top;
+}
+
+textarea{
+  max-height: 60px;
+}
